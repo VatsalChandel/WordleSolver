@@ -46,4 +46,3 @@ while (attempt_number <= 6):
         if counter == 8:
             print("")
             counter = 0
-        
