@@ -1,7 +1,3 @@
-# Always a five letter word
-# Words can be green, yellow, or black 
-# Only have six tries 
-
 
 attempt_number = 0
 words = []
